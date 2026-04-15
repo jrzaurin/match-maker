@@ -171,10 +171,12 @@ Result saved to `results/<cv_stem>_<timestamp>.json`:
 }
 ```
 
-**IMPORTANT NOTE**: at the moment there is nothing implemented regarding evals
-for the LLM output or the evaluation of the overall pipeline via implicit or
-explicit feedback from the user. This would be in itself the most important next
-step to take.
+**IMPORTANT NOTE**:
+
+There are two main areas of improvemen:
+
+1. Enrich and speed retrieval.
+2. Evals for the LLM output and the overall pipeline.
 
 ### HTTP API (local)
 
