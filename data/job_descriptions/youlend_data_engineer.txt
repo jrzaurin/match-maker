@@ -1,0 +1,52 @@
+YouLend
+Data Engineer
+
+Location: 90 High Holborn, London, UK
+Working model: Hybrid
+Salary: £60,000 – £90,000
+Employment type: Permanent
+Visa sponsorship: Not available
+
+
+ABOUT THE COMPANY
+
+YouLend is an embedded financing platform enabling e-commerce platforms, tech companies, and payment providers to offer flexible financing to their merchant base.
+
+Operating across multiple European markets, YouLend partners with companies such as Shopify, Paymentsense, Allianz Global Investors, and EQT.
+
+
+ROLE OVERVIEW
+
+We are hiring a Data Engineer to build and maintain data pipelines and infrastructure supporting business operations and analytics.
+
+Reporting to the Data Lead, you will work closely with stakeholders across the business to deliver scalable and reliable data systems.
+
+
+KEY RESPONSIBILITIES
+
+- Gather requirements from business stakeholders
+- Build and maintain data pipelines using Python, SQL, and C#
+- Develop and optimise data workflows and processing systems
+- Contribute to the design and implementation of new data architectures
+- Support deployment of models and services using Docker and Kubernetes
+
+
+TECH STACK
+
+- Python, SQL
+- AWS
+- MongoDB, PostgreSQL
+- Snowflake
+- Airflow, dbt
+- Docker, Kubernetes
+
+
+BENEFITS
+
+- 25 days holiday
+- Share scheme
+- Flexible working
+- Work-from-home equipment budget
+- Private health insurance (Vitality)
+- Employee discount scheme
+- Free lunches and social events

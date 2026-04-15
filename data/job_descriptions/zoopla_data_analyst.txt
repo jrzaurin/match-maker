@@ -1,0 +1,77 @@
+Zoopla
+Data Analyst
+
+Location: London, UK
+Working model: Hybrid (up to 2 remote days per week)
+Salary: £45,000 - £55,000
+Employment type: Permanent
+Visa sponsorship: Not available
+
+
+ABOUT THE COMPANY
+
+Zoopla is a property marketplace focused on helping people make better property decisions. Data plays a central role in improving journeys for both consumers and estate agents, with measurement, experimentation, and insight seen as key drivers of product and commercial performance.
+
+
+ROLE OVERVIEW
+
+Zoopla is hiring a Data Analyst to partner closely with business stakeholders and support measurement, experimentation, reporting, and insight generation.
+
+This role spans several analytics disciplines, including stakeholder partnership, experimentation analysis, data modelling, self-serve analytics, and collaboration with data science and product teams.
+
+
+KEY RESPONSIBILITIES
+
+- Own the data relationship with business stakeholders, with support from the wider Analytics team
+- Bridge commercial and product discussions using data
+- Report on baseline performance and trends across the business
+- Support a self-serve analytics culture
+- Analyse and report on complex experimentation
+- Build strong analyst-stakeholder relationships so that data is embedded in decision-making
+- Contribute across analytics disciplines, including:
+  - data product design
+  - data modelling
+  - analytical deep-dives
+  - support for data science, AI, and machine learning projects
+- Contribute ideas and innovation across the team
+
+
+CANDIDATE PROFILE
+
+- Curious and proactive approach to learning
+- Strong sense of ownership and accountability
+- Ability to translate complex business problems into actionable insights
+- Excellent communication skills with both technical and non-technical stakeholders
+- Strong cultural fit, with emphasis on initiative, growth, and impact
+- Interested in helping shape innovation in the property technology space
+
+
+TECHNICAL SKILLS
+
+Essential:
+- SQL
+- Tableau or similar data visualisation tools
+- dbt or similar transformation technologies
+- Strong understanding of data modelling and ETL
+
+Desirable:
+- Statistics and/or programming background
+- Familiarity with experimentation analysis
+- Experience with machine learning or AI, ideally in Python, R, or similar languages
+
+
+BENEFITS
+
+- Flexible working through Everyday Flex
+- 25 days annual leave plus additional service-based days
+- Extra leave for birthday, house move, good deed day, and digital detox day
+- Cycle to work and electric car schemes
+- Free Calm app membership
+- Dependants leave
+- Enhanced parental leave
+- Fertility treatment financial support
+- Group income protection and private medical insurance
+- On-site gym in London or regional office membership
+- 7.5% pension contribution
+- Discretionary annual bonus up to 10%
+- Referral bonus up to £5,000

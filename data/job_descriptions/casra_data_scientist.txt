@@ -1,0 +1,74 @@
+Casra (via Creo Recruitment)
+Senior Data Scientist
+
+Location: London, UK
+Working model: Hybrid (up to 3 remote days per week)
+Salary: £80,000 – £90,000
+Employment type: Permanent
+Visa sponsorship: Not available
+
+ABOUT THE COMPANY
+
+A high-scale machine learning platform analysing billions of ad interactions to detect and eliminate fraudulent or inefficient traffic.
+
+Industry: Marketing & Advertising / Data / SaaS
+Stage: Series A
+Team size: 11–50
+
+
+ROLE OVERVIEW
+
+We are hiring a Senior Data Scientist to develop new product capabilities at the intersection of data science, AI, and product.
+
+This is a 0-to-1 role focused on rapid experimentation and shipping AI-powered systems into production, including LLM-based and agentic solutions.
+
+
+KEY RESPONSIBILITIES
+
+- Own end-to-end development of new product capabilities (POC → MVP → production)
+- Translate product and customer needs into hypotheses and experiments
+- Build and deploy machine learning and AI systems
+- Collaborate closely with engineering and product teams
+- Balance speed, complexity, and business impact
+- Contribute to AI/ML foundations across the organisation
+
+
+REQUIREMENTS
+
+Core:
+- Strong experience building and deploying production ML systems
+- Ability to rapidly prototype and scale solutions
+- Strong Python and SQL
+- Experience with large-scale datasets in cloud environments
+
+AI / LLM:
+- Experience with LLM systems (RAG, agentic architectures, NLP)
+- Strong product/system thinking (scalability, reliability, explainability)
+
+Nice to have:
+- AWS (SageMaker, Bedrock, Lambda, S3, Redshift)
+- MLOps best practices (monitoring, evaluation, deployment)
+- Experience in adtech, fraud detection, or adversarial environments
+
+
+SUCCESS METRICS (6–12 months)
+
+- Ship at least one production capability with measurable impact
+- Demonstrate rapid, disciplined experimentation
+- Improve AI/ML foundations and technical standards
+- End-to-end ownership from idea to production
+
+
+BENEFITS
+
+- 29 days holiday
+- Private healthcare
+- Enhanced parental leave
+- Home office contribution
+
+
+INTERVIEW PROCESS
+
+1. Intro call (30 mins)
+2. Technical interview (take-home + presentation)
+3. Final interview with CTO

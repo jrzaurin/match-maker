@@ -1,0 +1,55 @@
+Zest Group
+Data Engineer
+
+Location: Bournemouth, UK
+Working model: Hybrid (up to 4 remote days per week)
+Salary: £50,000 – £60,000
+Employment type: Permanent
+Visa sponsorship: Not available
+
+
+ABOUT THE COMPANY
+
+Zest is a leader in home appliance care and repair, focused on transforming the industry through data, automation, and digital customer experiences.
+
+
+ROLE OVERVIEW
+
+We are hiring our first Data Engineer to build and own the company’s data infrastructure.
+
+This role focuses on transforming messy, siloed operational data into clean, reliable datasets that power reporting, decision-making, and future AI initiatives.
+
+
+KEY RESPONSIBILITIES
+
+- Build and own data pipelines
+- Design and develop the data warehouse
+- Ensure data quality and reliability
+- Enable reporting, analytics, and automation
+- Prepare data systems for AI-driven use cases
+
+
+REQUIREMENTS
+
+- Strong experience with Azure (Data Factory, Fabric, etc.)
+- Advanced SQL (CTEs, window functions, performance tuning)
+- Experience integrating multiple data sources
+- Strong understanding of data modelling
+- Experience working with messy, real-world data
+- Familiarity with APIs, JSON/XML
+
+Nice to have:
+- Power BI or SSRS
+- Google Analytics / Ads data
+- Call centre or telephony data
+- Scripting (Python, PowerShell)
+
+
+BENEFITS
+
+- Flexible hybrid working
+- Learning and development support
+- Performance-related bonus
+- Private medical insurance
+- Modern office near the beach
+- Social events and team activities

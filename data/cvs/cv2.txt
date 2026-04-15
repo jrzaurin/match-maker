@@ -1,0 +1,161 @@
+Jordi Marés Soler
+
+Email: <jordimares@gmail.com>  
+Phone: +44 7564 695396  
+LinkedIn: <https://www.linkedin.com/in/jordimares>  
+
+Location: Barcelona / London (Remote)
+
+PROFESSIONAL SUMMARY
+
+Data and Machine Learning Engineering leader with 10+ years of experience building and scaling data platforms, MLOps systems, and distributed architectures across startups and scale-ups. Strong background in machine learning infrastructure, data platforms, and team leadership, with experience across fintech, marketplaces, and adtech.
+
+SKILLS AND EXPERTISE
+
+Core:
+
+- Data Engineering, Data Platforms, Data Architecture
+- Machine Learning Platforms & MLOps
+- DataOps, Observability, Data Governance
+- Distributed Systems
+
+Languages & Tools:
+
+- Python, Scala, Ruby, Java
+- AWS (SageMaker, Redshift, S3, EC2, SQS)
+- Kafka
+- Databricks / Spark
+- SQL (PostgreSQL, Redshift, Cassandra)
+
+Leadership:
+
+- Team leadership & scaling engineering teams
+- Cross-functional collaboration
+- System architecture & platform strategy
+- OKRs and delivery ownership
+
+EXPERIENCE
+
+The Knot Worldwide
+
+Director of Data Platform, Data Engineering and MLOps  
+Sep 2025 – Present  
+Barcelona / Remote  
+
+- Leading the overall data platform strategy, including data engineering, MLOps, and platform scalability.
+- Driving architecture decisions across data ingestion, transformation, and ML systems.
+- Managing teams responsible for data infrastructure, reliability, and platform evolution.
+- Partnering with product and engineering leadership to align data capabilities with business needs.
+
+Director of Data Platform and MLOps  
+Oct 2024 – Sep 2025  
+
+- Led the evolution of the company’s data platform and MLOps capabilities.
+- Defined standards for data pipelines, platform reliability, and ML lifecycle management.
+- Introduced improvements in data architecture and platform efficiency.
+
+Senior Manager – DataOps  
+Jun 2024 – Oct 2024  
+
+- Led DataOps initiatives to improve data reliability, delivery speed, and operational excellence.
+- Introduced processes and tooling for better observability and incident management.
+
+Senior Manager, MLOps  
+Jan 2023 – May 2024  
+
+- Built and scaled MLOps systems supporting multiple ML teams.
+- Improved deployment pipelines, model monitoring, and reproducibility.
+- Defined best practices for ML lifecycle management.
+
+Cazoo (Freelance)
+
+Principal Engineer – MLOps  
+Nov 2021 – Nov 2022  
+London, UK  
+
+- Led MLOps initiatives across distributed teams.
+- Designed scalable ML infrastructure and deployment pipelines.
+- Provided technical leadership for ML platform development.
+
+Cazana (Freelance)
+
+Principal Engineer  
+Aug 2021 – Nov 2021  
+
+Senior Machine Learning Engineer  
+Sep 2020 – Aug 2021  
+
+- Built and maintained machine learning systems for vehicle valuation and analytics.
+- Contributed to platform architecture and ML deployment pipelines.
+
+Simply Business
+
+Machine Learning Engineer  
+Jun 2018 – Present (historical role before current companies)  
+
+- Maintained and improved ML platform architecture.
+- Supported teams in deploying and scaling ML models.
+- Worked with AWS SageMaker, Kafka, Redshift, Python, Scala, and Ruby.
+
+Engineering Lead  
+Sep 2016 – Jun 2018  
+
+- Led development of internal tools for call centre operations.
+- Built a custom telephony system using event-sourcing architecture.
+- Stack included Ruby, Kafka, AWS, and Twilio.
+
+Algorithmic Ads (Startup)
+
+Co-Founder & Senior R&D Software Engineer  
+Jun 2014 – Sep 2016  
+
+- Built automated systems to generate display ads from website content.
+- Led a team of 4 engineers.
+- Worked with Python, Ruby, JavaScript, Java, PostgreSQL, Cassandra, and AWS.
+
+University College London (UCL)
+
+Data Warehouse Lead Developer  
+Jan 2014 – Jun 2014  
+
+- Led development of a semantic data warehouse for medical data integration.
+- Worked with Java, Python, Maven, Tomcat, and RDF technologies.
+
+IIIA-CSIC (Research)
+
+Privacy-Preserving Data Mining Researcher  
+Sep 2009 – Dec 2013  
+
+- Applied ML techniques (clustering, genetic algorithms) to data privacy problems.
+- Published research in international journals and conferences.
+- Worked with Python, Java, Matlab, and R.
+
+EDUCATION
+
+MBA  
+Quantic School of Business and Technology | 2018  
+
+PhD in Computer Science  
+Universitat Autònoma de Barcelona | 2013  
+
+Master in Artificial Intelligence and Computer Vision  
+Universitat Autònoma de Barcelona | 2011  
+
+MSc in Computer Science  
+Universitat Autònoma de Barcelona | 2010  
+
+LANGUAGES
+
+Catalan: Native  
+Spanish: Native  
+English: Fluent  
+
+PUBLICATIONS
+
+Multiple publications in data privacy, statistical disclosure control, and evolutionary algorithms in journals and conferences (Springer, Elsevier, ACM).
+
+ADDITIONAL
+
+- Experience in AWS-based distributed systems
+- Strong background in data privacy and statistical modelling
+- Former system administrator and webmaster roles

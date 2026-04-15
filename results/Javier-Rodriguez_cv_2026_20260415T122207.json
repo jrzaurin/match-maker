@@ -1,0 +1,26 @@
+{
+  "ranked_jobs": [
+    {
+      "job_id": "xantura_ml_engineer",
+      "score": 95.0,
+      "rank": 1,
+      "rationale": "This role is an exceptional match for the candidate, as it aligns perfectly with their extensive experience as a Senior Staff Machine Learning Engineer and their leadership background. The responsibilities of defining the ML/AI technical roadmap and mentoring an ML engineering team match the candidate's skills and past impact. Additionally, the domain expertise required in general ML/AI aligns well with the candidate's experience."
+    },
+    {
+      "job_id": "pubX_ml_engineer",
+      "score": 78.0,
+      "rank": 2,
+      "rationale": "This position is a strong match due to the alignment in role type and seniority level. The candidate's technical skills in Python and PyTorch are relevant, although there are gaps in required skills like MLflow and SageMaker. The adtech domain is a new area for the candidate, which slightly reduces the score, but overall, they can ramp up quickly."
+    },
+    {
+      "job_id": "longshot_ml_engineer",
+      "score": 60.0,
+      "rank": 3,
+      "rationale": "This role presents a moderate match as it aligns with the candidate's role type and seniority, but there are significant gaps in required skills such as C++ and multi-threading. The sports betting domain is also outside the candidate's experience, which further impacts the fit. While the candidate has relevant ML experience, the specific requirements of this role do not align closely enough."
+    }
+  ],
+  "summary": {
+    "best_fit_job_id": "xantura_ml_engineer",
+    "overall_comment": "The candidate is best suited for senior or director-level ML engineering roles that involve leadership and strategic decision-making in general ML/AI domains. Positions that require specific domain expertise or technical skills not possessed by the candidate are less favorable."
+  }
+}

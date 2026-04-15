@@ -1,0 +1,64 @@
+Utility Warehouse
+Data Engineering Manager
+
+Location: London, UK
+Working model: Hybrid (up to 2 remote days per week)
+Salary: Undisclosed
+Employment type: Permanent
+Visa sponsorship: Not available
+
+
+ABOUT THE COMPANY
+
+Utility Warehouse (UW) provides bundled utility services including energy, broadband, mobile, and insurance, aiming to simplify everyday services for customers.
+
+
+ROLE OVERVIEW
+
+We are hiring a Data Engineering Manager to lead the data engineering team and define the technical vision for UW’s data platform.
+
+You will own the full data lifecycle, from ingestion to analytics, and lead a major initiative to build a scalable enterprise data warehouse.
+
+
+KEY RESPONSIBILITIES
+
+Leadership:
+- Manage and mentor a team of data engineers
+- Foster a culture of technical excellence and continuous delivery
+
+Platform & Architecture:
+- Define data platform strategy
+- Lead transition toward a data mesh architecture
+- Oversee ingestion, transformation, and analytics layers
+
+Pipelines & Warehousing:
+- Build and maintain ETL/ELT pipelines
+- Implement scalable data models (Kimball, Data Vault)
+
+Infrastructure & DevOps:
+- Ensure platform reliability using Docker, Kubernetes, CI/CD
+- Work with infrastructure-as-code (Terraform)
+
+Collaboration:
+- Partner with data architects and governance teams
+- Support security, compliance, and data quality initiatives
+
+
+REQUIREMENTS
+
+- Proven experience managing data engineering teams
+- Strong background in data engineering and SQL-heavy workflows
+- Experience with cloud data platforms (BigQuery, Snowflake)
+- Experience with dbt or similar tools
+- Strong system design and distributed systems knowledge
+- Experience with containerisation (Docker, Kubernetes)
+
+
+BENEFITS
+
+- Competitive salary + share options
+- Flexible working arrangements
+- Pension scheme and life assurance
+- Private healthcare and wellbeing support
+- Career development opportunities
+- Discounts and employee benefits

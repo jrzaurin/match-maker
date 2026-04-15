@@ -1,0 +1,139 @@
+Javier Rodríguez Zaurín
+
+Email: jrzaurin@gmail.com  
+GitHub: https://github.com/jrzaurin  
+Medium: https://medium.com/@jrzaurin  
+Blog: https://jrzaurin.github.io/infinitoml/  
+Phone: +44 7871 626112  
+
+
+PROFESSIONAL SUMMARY
+
+Machine Learning professional with 20+ years of experience across academia, startups/scale-ups, and multinational companies. Extensive expertise in productionising ML systems, particularly recommendation systems, NLP, and multimodal systems, as well as leading teams and driving product strategy.
+
+Delivered ML products across gaming, fintech, e-commerce, insurance, and crypto. Creator and main maintainer of the open-source library pytorch-widedeep for multimodal deep learning.
+
+
+SKILLS AND EXPERTISE
+
+Technical:
+- NLP & LLM-based systems (RAG, agents)
+- Recommendation Systems
+- A/B Testing (Bayesian & Frequentist)
+- Computer Vision
+- MLOps
+
+Languages & Tools:
+- Python, PyTorch, FastAPI
+- AWS, GCP, Docker
+- SQL, Linux
+
+Leadership:
+- Team building (up to ~15 ML scientists and engineers)
+- Agile & MLOps frameworks
+- Cross-functional collaboration
+- Technical strategy & roadmapping
+
+
+EXPERIENCE
+
+Senior Staff Machine Learning Engineer  
+Pump.fun | January 2025 – Present
+
+Pump.fun is a Solana-based launchpad for meme coin trading.
+
+- Led design and implementation of a 4-stage recommendation system for trending meme coins, resulting in ~7% increase in conversion rate and ~2% increase in SOL traded.
+- Built a multimodal moderation system combining text, image, and multimodal models with a GBM inference layer.
+- Used quantile regression for uncertainty estimation to route cases to human moderators and condition prompts for an autonomous moderation agent, reducing spam/NSFW from >40% to <10%.
+- Designed and deployed an AI moderation agent combining ChatGPT, Qwen models, and GBM signals, reducing human moderation needs by ~10×.
+- Developed and maintained a Python library powering internal A/B testing (Frequentist & Bayesian), including custom methods (e.g., MDE for zero-inflated metrics).
+
+
+Machine Learning Scientist/Engineer (NLP)  
+Sama | April 2024 – December 2024
+
+- Sole ML owner responsible for end-to-end design and deployment of NLP systems extracting insights from coaching session data.
+- Built and maintained the production ML stack.
+- Worked closely with product and engineering teams to integrate ML outputs into user workflows.
+
+
+Head of Machine Learning  
+Assetario | January 2022 – May 2024
+
+- Defined and executed ML strategy; led a team of up to 6 ML scientists.
+- Designed and deployed recommendation systems end-to-end.
+- Built and maintained an internal MLOps library.
+- Developed systems ranging from heuristic baselines to supervised and probabilistic models.
+- Delivered uplifts of ~10–20% on key business metrics.
+
+
+Director of Machine Learning  
+Cazana (acquired by Cazoo) | February 2020 – September 2021
+
+- Defined and executed ML roadmap, reporting to CEO.
+- Worked on vehicle valuation, insurance, and demand forecasting using tabular and unstructured data.
+- Reorganised team into hybrid ML scientists and engineers, growing from 3 to 6.
+- Delivered three ML-based products in under a year.
+- Generated ~£0.5m annual savings and secured contracts worth over £1m.
+
+
+Machine Learning Specialist (Contract/Freelance)  
+March 2019 – Present
+
+Interim Head of Machine Learning  
+Hazy | March 2019 – November 2019
+
+- Led a team of 5 (4 scientists, 1 engineer).
+- Worked on synthetic data generation.
+- Supported founders on client engagements.
+
+
+Head of Data Science  
+Simply Business | September 2017 – March 2019
+
+- Defined ML strategy, reporting to CDO/CTO.
+- Led a team of 3.
+- Built ML systems for claims prediction, conversion, call centre optimisation, and marketing attribution.
+- Delivered ~£200k value within six months.
+
+
+Principal Data Scientist  
+AIMIA | June 2016 – August 2017
+
+- Led multidisciplinary team (10–14 total, 7 direct reports).
+- Transitioned organisation to AWS and modern ML techniques.
+- Built recommendation systems using embeddings and GBMs.
+
+
+Data Scientist  
+Styloko | May 2014 – May 2016
+
+- First data scientist; built team of three.
+- Developed recommendation systems and item classification models using CV and NLP.
+
+
+Postdoctoral Researcher  
+Instituto de Astrofísica de Canarias / STScI / CSIC | 2008 – 2014
+
+- Astrophysical data modelling using statistical methods.
+
+
+EDUCATION
+
+PhD in Physics & Astronomy  
+University of Sheffield | 2008
+
+- Focus: galaxy formation modelling
+- Techniques: Gaussian fitting, regression, hypothesis testing
+
+MPhys in Theoretical Physics  
+University of Zaragoza | 2004
+
+- Graduated with high distinction (3rd in class)
+
+
+PUBLICATIONS
+
+- pytorch-widedeep: A flexible package for multimodal deep learning  
+  Javier Rodriguez Zaurin & Pavol Mulinka  
+  Journal of Open Source Software (JOSS), 2023  

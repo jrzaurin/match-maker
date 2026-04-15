@@ -1,0 +1,67 @@
+Provenir
+Lead Data Scientist – Fraud
+
+Location: Remote (UK)
+Salary: £60,000
+Employment type: Permanent
+Visa sponsorship: Not available
+
+
+ABOUT THE COMPANY
+
+Provenir builds decisioning platforms for smarter risk management across banking and fintech.
+
+
+ROLE OVERVIEW
+
+We are hiring a Lead Data Scientist to build and lead a new fraud detection function, focused on customer profiling and fraud prevention systems.
+
+This is a domain-heavy role requiring deep expertise in fraud detection.
+
+
+KEY RESPONSIBILITIES
+
+- Define fraud detection strategy with product teams
+- Build and improve ML models for fraud detection
+- Design adaptive detection systems for evolving fraud patterns
+- Develop scoring models balancing fraud prevention and user experience
+- Work closely with engineering to productionise models
+- Define monitoring and evaluation frameworks
+- Build and mentor a data science team over time
+
+
+REQUIREMENTS
+
+- 10+ years in data science, including 5+ years in fraud detection
+- Proven experience building fraud models in production
+- Deep knowledge of fraud typologies (synthetic identity, fraud rings, mule accounts)
+- Experience with imbalanced datasets and adversarial environments
+- Strong Python and ML experience
+- Understanding of MLOps (deployment, monitoring, drift)
+
+Nice to have:
+- Real-time fraud scoring systems
+- Graph/network analysis for fraud detection
+- Explainable AI techniques
+- Knowledge of AML/KYC regulations
+- Experience building teams
+
+
+WORKING STYLE
+
+- High autonomy from day one
+- Hands-on role initially (modelling + deployment)
+- Close collaboration with engineering teams
+- Strong emphasis on domain expertise
+
+
+BENEFITS
+
+- Fully remote (UK)
+- Opportunity to define and shape the fraud data science function
+- Influence tooling, infrastructure, and team structure
+
+
+NOTE
+
+This is a fraud-first role. Deep domain expertise is required.

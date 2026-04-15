@@ -1,0 +1,111 @@
+Longshot Systems
+Senior Machine Learning Engineer
+
+Location: Leather Lane, London, UK
+Working model: Hybrid (up to 4 remote days per week)
+Employment type: Permanent
+Visa sponsorship: Not available
+Salary: £100,000 - £150,000
+
+
+ABOUT THE COMPANY
+
+At Longshot Systems, we build advanced platforms for sports betting analytics and trading. Our systems support quantitative research, strategy development, and real-time decision-making in highly competitive markets.
+
+
+ROLE OVERVIEW
+
+We are hiring a Senior Machine Learning Engineer to join our modelling engineering team.
+
+You will work closely with quantitative researchers to turn prototype trading models into production-ready systems. This includes designing and building the tooling, infrastructure, and data pipelines required to support research and trading strategies, while ensuring low latency and high scalability.
+
+Our ML stack is Python-based and uses modern tools such as Polars, Ray, and Plotly.
+
+
+KEY RESPONSIBILITIES
+
+- Productionise trading models developed by quantitative research teams
+- Design and build scalable ML systems and data pipelines
+- Architect high-performance systems with a focus on low latency
+- Develop tooling and frameworks to support research workflows
+- Optimise performance across the stack (compute, memory, networking)
+- Collaborate closely with researchers and engineers on system design
+
+
+REQUIREMENTS
+
+- Degree in a quantitative or technical subject (e.g. Machine Learning, Maths, Physics)
+- Strong software engineering skills, particularly in Python
+- Experience working with modern ML and scientific computing stacks
+- Systematic and analytical approach to problem-solving
+- High standards for engineering quality and best practices
+
+
+TECHNICAL SKILLS
+
+Core:
+- Python (advanced)
+- NumPy / SciPy stack
+
+Performance / Systems:
+- C / C++ (modern architectures)
+- Multi-threading
+- Profiling and optimisation (Python and/or C/C++)
+- Networking fundamentals
+- Linux environments and scripting
+
+Nice to have:
+- Data engineering tools (Dagster, Prefect, etc.)
+- Dataframe optimisation (Pandas, Polars)
+- ML frameworks (scikit-learn, PyTorch, TensorFlow)
+- Scientific computing ecosystems
+
+
+WORKING STYLE
+
+- Hybrid: Office presence on Thursdays (London, Farringdon)
+- Flexible working hours (typically 10:00–18:00 UK time)
+- Emphasis on autonomy and ownership
+- Focus on outcomes rather than strict schedules
+
+
+BENEFITS
+
+- Uncapped bonus scheme (typically 15–30% depending on experience)
+- 10% matched pension contributions
+- Private healthcare insurance
+- Long-term illness insurance
+- Gym membership
+- Choice of hardware and development setup
+
+
+INTERVIEW PROCESS
+
+1. Introductory call (30 minutes)
+   - Background and interests
+
+2. Technical Interview 1 (30 minutes)
+   - Live code review and pair programming
+
+3. Technical Interview 2 (60 minutes)
+   - Deep technical discussion
+
+4. Full Assessment Day (10:30–17:00)
+   - Practical programming exercise aligned with real work
+
+
+CANDIDATE PROFILE (SUMMARY)
+
+- Strong engineering mindset with ML exposure
+- Comfortable working close to systems and performance
+- Experience bridging research and production
+- Interest in trading, optimisation, or high-performance systems
+
+
+RELEVANT SKILLS (FROM CURRENT CANDIDATES)
+
+- Machine Learning
+- Python
+- SQL
+- AWS
+- C++

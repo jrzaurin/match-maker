@@ -1,0 +1,89 @@
+Dunelm
+Senior Analyst – Customer and Performance Analytics
+
+Location: United Kingdom
+Working model: Hybrid (up to 3 remote days per week)
+Salary: £50,000 - £60,000
+Employment type: Permanent
+Visa sponsorship: Not available
+
+
+ABOUT THE COMPANY
+
+Dunelm is the UK’s number one homewares retailer, offering around 100,000 products through a multichannel retail business. The company is investing heavily in supply chain, stores, technology, and digital capabilities to improve the customer experience and support long-term growth.
+
+As part of its broader Data & Insight transformation, Dunelm is growing its Analytics team to put data and insight at the heart of decision-making across the business.
+
+
+ROLE OVERVIEW
+
+Dunelm is hiring a Senior Analyst to join the Customer and Performance Analytics team.
+
+This role focuses on understanding customer behaviour across stores and digital channels, as well as competitor performance. You will generate insights and recommendations that inform business strategy, with a particular emphasis on customer experience, performance reporting, and continuous improvement.
+
+
+KEY RESPONSIBILITIES
+
+- Support weekly trade reporting so stakeholders are informed on customer performance
+- Deliver data-driven insights on business performance drivers and trading decisions
+- Collaborate across the Insights & Analytics team to share key findings and business context
+- Build deep understanding of Dunelm’s CSAT survey programme, including methodology and reporting
+- Work closely with the Research team to combine customer research with quantitative data analysis
+- Develop and maintain dashboards, reports, and presentations for CSAT and customer performance
+- Partner with Data Product and Engineering teams to define internal and external data needs
+- Act as an advocate for data, insight, and the voice of the customer across the business
+
+
+CANDIDATE PROFILE
+
+- Strong analytical skills with experience solving business problems using data
+- Preferably some retail or consumer-focused experience
+- Strong commercial awareness and business acumen
+- Excellent stakeholder management and communication skills
+- Ability to synthesise insight from multiple sources into a clear narrative and actionable recommendations
+- Comfortable in fast-paced environments and adaptable to changing priorities
+- Experience or interest in quantitative research methodologies is a plus
+
+
+TECHNICAL SKILLS
+
+Core:
+- SQL
+- Data analysis
+- Excel
+
+Nice to have:
+- Python, R, or another programming language
+- Experience working with large datasets
+
+
+BENEFITS
+
+- 25 days holiday + bank holidays
+- Birthday off
+- Moving day off
+- Charity day off
+- Holiday buy scheme
+- Sharesave scheme
+- Private healthcare
+- Performance bonus
+- Gym membership
+- Cycle to work scheme
+- Childcare vouchers
+- 15% colleague discount plus additional discount days
+- Training and development support
+- Internal recognition programme
+
+
+INTERVIEW PROCESS
+
+1. Screening call with recruiter
+2. First stage (virtual, 1 hour)
+   - Introduction
+   - Competency questions
+   - SQL test
+3. Second stage (1 hour)
+   - Additional competency questions
+   - Case study
+4. Final stage (30 minutes)
+   - Interview with a senior member of the Insights & Analytics leadership team

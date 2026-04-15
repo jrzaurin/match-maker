@@ -1,0 +1,134 @@
+PubX
+Senior Machine Learning Engineer (Agentic AI)
+
+Location: Remote (Europe / UK / India)
+Working timezone: UTC (London ±4 hours)
+Employment type: Permanent
+Visa sponsorship: Not available
+Salary: £100,000 - £150,000 (equity included)
+
+
+ABOUT THE COMPANY
+
+PubX builds next-generation, publisher-first agentic advertising infrastructure.
+
+Our platform uses machine learning to make real-time, revenue-critical pricing decisions across programmatic advertising auctions. By analysing bid-stream data and historical patterns, we optimise pricing at the level of individual ad impressions, delivering measurable revenue uplift for publishers.
+
+We are currently ranked #5 globally in Prebid Analytics Adapter Rankings and are a founding member of AgenticAdvertising.org, helping define the next generation of autonomous advertising systems.
+
+
+THE PROBLEM
+
+Digital publishers leave significant revenue on the table due to static or rule-based pricing systems. While every ad impression is unique, most platforms treat them identically.
+
+PubX addresses this by applying machine learning to optimise pricing decisions in near real-time across billions of auction events.
+
+
+ROLE OVERVIEW
+
+We are hiring a Senior Machine Learning Engineer to design, build, and operate production ML systems that power real-time pricing decisions.
+
+This is a hands-on role spanning:
+- Model development
+- MLOps infrastructure
+- Low-latency serving systems
+- LLM / agentic AI integration
+
+You will work closely with data and backend engineers to deliver robust, scalable systems in a high-throughput environment.
+
+
+KEY RESPONSIBILITIES
+
+Machine Learning Engineering:
+- Design, train, evaluate, and deploy models for real-time pricing decisions
+- Build end-to-end ML pipelines (feature engineering, training, validation, deployment, monitoring, retraining)
+- Ensure model performance, robustness, and reliability at scale
+
+MLOps & Infrastructure:
+- Develop and operate ML infrastructure (experiment tracking, model registry, A/B testing, retraining)
+- Build reproducible workflows using infrastructure-as-code on AWS
+- Manage model lifecycle, versioning, and deployment processes
+
+Agentic AI / LLM Systems:
+- Integrate LLM and agentic AI components into production workflows
+- Design prompt strategies, orchestration, evaluation, and feedback loops
+- Build systems that combine traditional ML with LLM-based decision-making
+
+Data & Serving Systems:
+- Build feature pipelines and low-latency serving layers
+- Work with high-throughput data systems (billions of events)
+- Collaborate with backend and data engineers to optimise performance
+
+Observability & Reliability:
+- Implement model monitoring, drift detection, alerting, and SLAs
+- Conduct post-incident analysis and continuously improve system reliability
+
+
+REQUIREMENTS
+
+Core:
+- Strong ML engineering fundamentals (modelling, evaluation, feature engineering)
+- Experience deploying and operating ML systems in production
+- Experience with MLOps tooling (MLflow, W&B, SageMaker, Kubeflow, etc.)
+- Strong Python skills across ML ecosystems (PyTorch, TensorFlow, scikit-learn, pandas, Spark)
+- Experience integrating LLM or agentic AI systems into production
+
+Engineering:
+- Working knowledge of backend systems (APIs, async processing, containerised services)
+- Ability to ship production-grade systems, not just prototypes
+
+Working Style:
+- Pragmatic decision-making balancing speed, quality, and cost
+- Strong communication across technical and non-technical stakeholders
+- Clean, maintainable, well-tested code
+- Fast iteration through prototyping and continuous improvement
+
+
+NICE TO HAVE
+
+- Experience in AdTech or high-throughput real-time systems
+- Familiarity with large-scale distributed systems
+
+
+WORKING ENVIRONMENT
+
+- Fully remote, distributed team
+- Strong async collaboration culture
+- Growing engineering presence in India
+- Heavy use of AI-assisted development tools (Cursor, Claude Code)
+
+
+BENEFITS
+
+- Competitive salary + meaningful equity
+- Fully remote work with flexible schedules
+- Learning and development budget
+- Supportive, low-ego engineering culture
+
+
+INTERVIEW PROCESS
+
+1. CV & Profile Review
+2. Initial Chat (30 minutes)
+   - Motivation and role fit
+3. Technical Interview (60 minutes)
+   - Architecture, system design, real scenarios
+4. Practical Exercise + Discussion (60 minutes)
+   - Role-relevant task
+
+
+CANDIDATE PROFILE (SUMMARY)
+
+- Strong production ML experience
+- Comfortable with both ML and systems engineering
+- Experience with LLM/agentic systems is a strong plus
+- Enjoys building real-world systems in evolving environments
+
+
+RELEVANT SKILLS (FROM CURRENT CANDIDATES)
+
+- Python
+- Machine Learning
+- LLMs (Large Language Models)
+- Artificial Intelligence
+- SQL

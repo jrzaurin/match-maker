@@ -1,0 +1,47 @@
+Portman
+Senior Data Scientist (Credit Risk)
+
+Location: Northampton, UK (Remote / Hybrid / On-site options)
+Salary: Undisclosed
+Employment type: Permanent
+Visa sponsorship: Not available
+
+
+ABOUT THE COMPANY
+
+Personal and professional finance provider for UK businesses, focused on lending, credit risk, and valuation.
+
+
+ROLE OVERVIEW
+
+We are hiring a Senior Data Scientist to develop end-to-end machine learning models and data solutions, with a focus on credit risk and valuation.
+
+You will act as a subject matter expert, influencing stakeholders and driving improvements in modelling, workflows, and data strategy.
+
+
+KEY RESPONSIBILITIES
+
+- Develop and deploy machine learning models for credit risk and valuation
+- Improve existing models and workflows
+- Build discounted cash flow (DCF) models
+- Identify opportunities for new data science applications
+- Influence stakeholders and contribute to data strategy
+
+
+REQUIREMENTS
+
+- Experience building credit risk models
+- Strong Python skills
+- Experience with Docker and containerisation
+- Experience working with AWS services
+- Strong problem-solving and analytical thinking
+- Ability to communicate technical concepts clearly
+
+Domain:
+- Understanding of financial concepts (e.g. discounted cash flows)
+
+General:
+- Ability to prioritise in a fast-paced environment
+- Strong organisational and communication skills
+- High attention to detail
+- Proactive and collaborative mindset

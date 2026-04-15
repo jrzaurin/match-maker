@@ -1,0 +1,86 @@
+Company: Xantura
+
+Job Title: Director of Machine Learning (Hands-On)
+
+Location: London (Hybrid, 1–2 days per week in office)
+
+About the Role
+
+The Director of Machine Learning is a senior leadership role within Client Delivery, leading the Data & Analytics Consulting (DACs) team. This is a hands-on technical leadership position combining strategic direction with direct contribution to Xantura's most complex machine learning and AI initiatives.
+
+You will set the technical vision for ML across the organisation, lead a team of ML engineers, and personally drive the design, development, and deployment of production machine learning systems. The role requires balancing strategic leadership with deep technical involvement—expect to be writing code, reviewing architectures, and solving hard problems alongside your team.
+
+Key Responsibilities
+
+Technical Leadership & Strategy:
+- Define and execute the ML/AI technical roadmap aligned with company objectives
+- Establish engineering standards, best practices, and architectural patterns
+- Drive technical decisions on model selection, infrastructure, and tooling
+- Lead R&D initiatives to evaluate emerging ML/AI technologies
+- Serve as technical authority for ML across the organisation
+
+Hands-On Engineering:
+- Design, train, and optimise predictive models (GBMs, temporal models, embeddings, NLP/LLMs)
+- Architect and build scalable ML infrastructure and pipelines
+- Personally contribute to high-impact, complex technical initiatives
+- Perform code reviews and ensure engineering excellence
+- Debug and resolve critical production issues
+
+Team Leadership & Development:
+- Build, lead, and mentor a high-performing team of ML engineers
+- Establish hiring standards and grow the team as needed
+- Create a culture of technical excellence, collaboration, and continuous learning
+- Provide career development guidance and performance management
+- Foster knowledge sharing and documentation practices
+
+Data & AI Engineering:
+- Lead the design of schema-aware data pipelines and data architecture
+- Oversee development of LLM-based systems (RAG, embeddings, NLP pipelines)
+- Guide implementation of agentic and multi-component AI workflows
+- Ensure data quality, governance, and pipeline reliability at scale
+
+Stakeholder & Client Engagement:
+- Partner with executive leadership on ML/AI strategy
+- Lead technical discussions with clients at senior levels
+- Translate business requirements into technical solutions
+- Present ML capabilities and results to C-level stakeholders
+- Collaborate with Product, Engineering, and Delivery leadership
+
+Platform Integration:
+- Own the integration strategy for ML outputs into the OneView platform
+- Drive improvements to platform ML capabilities
+- Ensure scalability and reliability of production ML systems
+
+Requirements
+
+- 10+ years of experience in ML/AI, with at least 3 years in a leadership role
+- Proven track record of building and leading ML engineering teams
+- Strong hands-on skills in Python, SQL, and ML frameworks
+- Deep experience building production ML systems end-to-end
+- Expertise across ML disciplines (tree-based models, deep learning, NLP, LLMs)
+- Experience architecting and deploying scalable ML infrastructure
+- Strong data engineering and database knowledge
+- Experience with LLM systems (RAG, embeddings, NLP workflows)
+- Excellent communication skills with ability to influence at executive level
+- Experience managing technical roadmaps and prioritisation
+- Track record of hiring, developing, and retaining engineering talent
+
+Nice to Have
+
+- Experience with Azure ML, AKS or similar cloud platforms
+- Experience with public sector datasets and local government context
+- PhD or advanced degree in ML, Statistics, or related field
+- Experience scaling ML teams from small to medium size
+- Background in consultancy or client-facing technical delivery
+
+About Xantura
+
+Xantura builds AI-driven platforms to help local authorities use data more effectively. The company focuses on early intervention, using predictive analytics to identify individuals at risk in areas such as homelessness, social care, and financial inclusion.
+
+The platform integrates multiple data sources and applies machine learning to generate actionable insights for frontline workers.
+
+Working Model
+
+Hybrid: Remote-first with 1–2 days per week in the London office. Travel required for client engagements and team collaboration.
+
+Salary: £150,000 – £180,000 per year

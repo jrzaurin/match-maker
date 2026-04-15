@@ -1,0 +1,94 @@
+Utility Warehouse
+Senior Customer Marketing Data Analyst
+
+Location: London, UK
+Working model: Hybrid (up to 4 remote days per week)
+Salary: £60,000 - £70,000
+Employment type: Permanent
+Visa sponsorship: Not available
+
+
+ABOUT THE COMPANY
+
+Utility Warehouse (UW) provides bundled utility services across energy, broadband, mobile, and insurance. The company’s aim is to make household services simpler and more cost-effective for customers.
+
+UW is continuing to scale and is investing in data capabilities to support growth across marketing, product, and customer strategy.
+
+
+ROLE OVERVIEW
+
+UW is hiring a Senior Customer Marketing Data Analyst to work directly with the Customer Marketing team in a cross-functional environment.
+
+This role sits between analytics engineering and business strategy. You will own the customer marketing data domain, develop robust data models, improve reporting and self-serve analytics, and translate data into strategic recommendations that influence campaign design and long-term marketing effectiveness.
+
+
+KEY RESPONSIBILITIES
+
+Analytics Engineering:
+- Build end-to-end data models using Dataform
+- Handle complex transformations and maintain scalable, reusable datasets
+
+Insight & Strategy:
+- Move beyond reporting what happened to explaining why it happened
+- Provide actionable recommendations that influence marketing decisions
+
+Performance & Reliability:
+- Optimise SQL for cost and runtime
+- Investigate data quality issues and reduce technical debt
+
+Dashboards & Reporting:
+- Build self-serve dashboards and tools for KPI exploration
+- Support users with access to trusted marketing datasets
+
+Domain Ownership:
+- Develop strong understanding of customer marketing data and objectives
+- Help shape goals and priorities for the domain
+
+Process & Collaboration:
+- Work closely with stakeholders to refine requirements and manage delivery
+- Mentor other analysts through code reviews and best practices
+
+
+CANDIDATE PROFILE
+
+- Strong hands-on experience as a senior data analyst or analytics engineer
+- Excellent SQL skills, including debugging and performance optimisation
+- Strong experience with data modelling and transformation tools such as Dataform or dbt
+- Good knowledge of attribution modelling and cohort analysis
+- Experience influencing technical guidelines and standards
+- Familiarity with marketing platforms such as Braze, Optimizely, Mixpanel, Amplitude, or GA4
+- Experience with Git / GitHub and modern analytics workflows
+- Strong ability to communicate insight clearly and influence business outcomes
+
+
+TECHNICAL SKILLS
+
+Core:
+- SQL
+- dbt / Dataform
+
+Nice to have:
+- BigQuery
+- Python
+- Looker
+- Stakeholder management within cross-functional teams
+
+
+BENEFITS
+
+- Competitive salary and stock options
+- Hybrid working with flexibility around office days
+- Pension scheme and life assurance
+- Private healthcare and wellbeing support
+- Employee discounts and cashback scheme
+- Career development through learning, coaching, and new experiences
+
+
+INTERVIEW PROCESS
+
+1. Application
+2. Short online SQL test (10 minutes)
+3. Recruitment screen (30 minutes)
+4. SQL programming test (up to 45 minutes)
+5. Hiring team interview (1 hour)
+6. Final presentation (1 hour)
