@@ -1,0 +1,49 @@
+services:
+
+  # ── Step 1: offline ingest ────────────────────────────────────────────────
+  # One-shot container: reads raw .txt job specs, runs LLM extraction, fits the
+  # TF-IDF title encoder, then exits.  Run this once (or whenever job specs change).
+  #
+  #   docker compose run --rm ingest
+  #   docker compose run --rm ingest --index-only      # skip LLM, just refit vectorizer
+  #   docker compose run --rm ingest --model qwen3.5:9b
+  ingest:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.offline
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    volumes:
+      # Raw job specs — read-only.
+      - ./data:/app/data:ro
+      # Shared artifacts written by ingest, read by api.
+      - artifacts_vol:/app/artifacts
+      - processed_data_vol:/app/processed_data
+    # Do not start ingest automatically with `docker compose up`.
+    profiles:
+      - ingest
+
+  # ── Step 2: online matching API ───────────────────────────────────────────
+  # Long-running FastAPI server.  Requires the ingest container to have run at
+  # least once so that the shared volumes contain jobs.jsonl and the vectorizer.
+  #
+  #   docker compose up api
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.online
+    ports:
+      - "8000:8000"
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    volumes:
+      # Shared artifacts produced by ingest.
+      - artifacts_vol:/app/artifacts:ro
+      - processed_data_vol:/app/processed_data:ro
+      # Results are written here; bind-mount so the host can read them.
+      - ./results:/app/results
+    restart: unless-stopped
+
+volumes:
+  artifacts_vol:
+  processed_data_vol:
