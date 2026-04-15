@@ -9,6 +9,8 @@ __pycache__/
 dist/
 build/
 
+cv*.txt
+
 results/
 artifacts/
 processed_data/
