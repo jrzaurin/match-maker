@@ -14,10 +14,11 @@ class OpenAIExtractor(Extractor):
         model: str | None = None,
         n_workers: int = 5,
         max_attempts: int = 3,
+        api_key: str | None = None,
     ) -> None:
         super().__init__(n_workers=n_workers, max_attempts=max_attempts)
         self._model = model or os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
-        self._client = AsyncOpenAI(api_key=open_ai_api_key)
+        self._client = AsyncOpenAI(api_key=api_key or open_ai_api_key)
 
     async def _complete_raw(self, *, system: str, user: str) -> str:
         resp = await self._client.chat.completions.create(
