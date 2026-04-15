@@ -45,6 +45,6 @@ target-version = ["py312"]
 profile = "black"
 
 [tool.mypy]
-python_version = "3.11"
+python_version = "3.12"
 ignore_missing_imports = true
 plugins = ["pydantic.mypy"]
