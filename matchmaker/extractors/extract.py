@@ -1,3 +1,6 @@
+# NOTE: the code here and in general could be a bit better organized and less
+# verbose. In terms of performance, here in particular, a local run via
+# huggingface might be better.
 import asyncio
 from pathlib import Path
 

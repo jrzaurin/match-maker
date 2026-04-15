@@ -1,8 +1,5 @@
-"""Controlled vocabularies — single source of truth for prompts and validation.
-
-NOTE: we could let the LLM generate freely. For this task, we will use a
-controlled vocabulary that one can expand as needed.
-"""
+# NOTE: we could let the LLM generate freely. For this task, we will use a
+# controlled vocabulary that one can expand as needed.
 
 from enum import StrEnum
 

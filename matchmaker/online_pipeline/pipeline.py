@@ -1,5 +1,9 @@
-"""Online matching pipeline — PDF CV → top-N ranked job matches."""
-
+# NOTE: many comments can be made here. There are a number of ways to speed
+# inference that can be discussed in detail in due time. One example is using
+# vLLM to speed up the inference. Another is, of course, using a different
+# method where we encode consistenty CVs and job descriptions in a way that the
+# retrieval can happen based on distance over encoded vectors rather than "brute
+# forcing" and LLM
 import json
 import asyncio
 from enum import Enum
@@ -119,7 +123,7 @@ class OnlinePipeline:
         return [jobs[int(i)] for i in top_idx]
 
     async def _rank(self, cv: CVRecord, jobs: list[JobRecord]) -> RankedMatchResult:
-        _OLLAMA_PREFIXES = ("qwen", "deepseek", "llama", "phi", "gemma", "mistral")
+        _OLLAMA_PREFIXES = ("qwen", "deepseek")
         extractor: Extractor = (
             OllamaExtractor(model=self._model)
             if any(self._model.startswith(p) for p in _OLLAMA_PREFIXES)

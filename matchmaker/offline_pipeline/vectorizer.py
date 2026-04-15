@@ -1,5 +1,7 @@
-"""TF-IDF title encoder — fit on job corpus, encode job titles and CV titles."""
-
+# NOTE:  a few things can be improved here. One obvious one is that we could use
+# a better way to normalize and encode text. As of right now we only use the
+# title. We could get an LLM to generate a small summary and embedd that or even
+# embedd the entire job description.
 import re
 import pickle
 from pathlib import Path

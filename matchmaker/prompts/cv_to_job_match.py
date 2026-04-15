@@ -1,3 +1,6 @@
+# NOTE: we could enrich this prompt with examples of good and bad job
+# descriptions. The same applies to all other prompts, but for this particular
+# prompt, would be highly beneficial.
 match_ranker_system = """
 You are an expert recruiter that evaluates and ranks job descriptions based on a candidate's CV.
 

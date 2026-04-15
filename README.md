@@ -254,5 +254,6 @@ curl -X POST http://localhost:8000/match \
 ## Tests
 
 ```bash
+# maybe set PYTHONPATH and then just run
 pytest
 ```

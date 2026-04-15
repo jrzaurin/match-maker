@@ -1,5 +1,4 @@
-"""Pydantic models for jobs, CVs, preferences, and match output."""
-
+# NOTE: this is a bit overkill for this project, but for now, we'll leave it
 from datetime import datetime, timezone
 
 from pydantic import Field, BaseModel, field_validator

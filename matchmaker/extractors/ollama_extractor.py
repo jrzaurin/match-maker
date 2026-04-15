@@ -1,3 +1,5 @@
+# NOTE:  of course one needs to get the ollama models to run this. As of right
+# now, this is not part of the docker containers.
 import asyncio
 
 from ollama import AsyncClient as OllamaClient
