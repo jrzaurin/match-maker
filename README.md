@@ -49,7 +49,7 @@ data/
 ## Installation
 
 ```bash
-python -m venv .venv && source .venv/bin/activate
+# set an environment with your tool of choice and...
 pip install -e ".[dev]"
 ```
 
