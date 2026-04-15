@@ -173,7 +173,7 @@ Result saved to `results/<cv_stem>_<timestamp>.json`:
 
 **IMPORTANT NOTE**:
 
-There are two main areas of improvemen:
+There are two main areas of improvemen or TODOs:
 
 1. Enrich and speed retrieval.
 2. Evals for the LLM output and the overall pipeline.
