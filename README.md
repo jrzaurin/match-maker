@@ -171,6 +171,11 @@ Result saved to `results/<cv_stem>_<timestamp>.json`:
 }
 ```
 
+**IMPORTANT NOTE**: at the moment there is nothing implemented regarding evals
+for the LLM output or the evaluation of the overall pipeline via implicit or
+explicit feedback from the user. This would be in itself the most important next
+step to take.
+
 ### HTTP API (local)
 
 ```bash
