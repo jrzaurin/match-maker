@@ -1,0 +1,20 @@
+# Offline ingest container — one-shot, exits after extraction + indexing.
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY pyproject.toml .
+COPY matchmaker/ matchmaker/
+
+RUN pip install --no-cache-dir -e .
+
+# Volumes expected at runtime (via docker-compose):
+#   /app/data          <- raw job specs (read-only bind mount from host)
+#   /app/processed_data <- outputs: jobs.jsonl (shared named volume)
+#   /app/artifacts      <- outputs: title_vectorizer.pkl (shared named volume)
+
+ENV RAW_DATA_DIR=/app/data
+ENV PROCESSED_DATA_DIR=/app/processed_data
+ENV ARTIFACTS_DIR=/app/artifacts
+
+CMD ["python", "-m", "matchmaker.offline_pipeline.pipeline"]

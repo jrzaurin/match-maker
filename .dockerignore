@@ -1,0 +1,25 @@
+.git/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Runtime outputs — injected via volumes at run time
+artifacts/
+processed_data/
+results/
+
+# Test fixtures and local secrets
+tests/
+.env
+tokens_and_api_keys.local.py
+
+# Documentation / CI config not needed in the image
+*.md
+.github/
+docker-compose.yml
