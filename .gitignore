@@ -9,4 +9,8 @@ __pycache__/
 dist/
 build/
 
+results/
+artifacts/
+processed_data/
+
 tokens_and_api_keys.py
