@@ -3,6 +3,8 @@
 import asyncio
 from pathlib import Path
 
+import typer
+
 from matchmaker.config import JOB_DIR, RAW_DATA_DIR, PROCESSED_DATA_DIR
 from matchmaker.data_models import JobRecord
 from matchmaker.extractors.extract import ExtractionPipeline
@@ -25,10 +27,12 @@ class OfflinePipeline:
     def __init__(
         self,
         model: str = "gpt-4o-mini",
+        api_key: str | Path | None = None,
         n_workers: int = 3,
         jobs_jsonl: str | Path | None = None,
     ) -> None:
         self._model = model
+        self._api_key = api_key
         self._n_workers = n_workers
         self._jobs_path = (
             Path(jobs_jsonl) if jobs_jsonl else Path(PROCESSED_DATA_DIR) / "jobs.jsonl"
@@ -53,7 +57,9 @@ class OfflinePipeline:
             f"[step 1/2] Extracting {len(files)} job specs  model={self._model}  workers={self._n_workers}"
         )
 
-        pipeline = ExtractionPipeline(model=self._model, n_workers=self._n_workers)
+        pipeline = ExtractionPipeline(
+            model=self._model, n_workers=self._n_workers, api_key=self._api_key
+        )
         jobs = await pipeline.extract_jobs(files)
 
         self._jobs_path.parent.mkdir(parents=True, exist_ok=True)
@@ -73,10 +79,31 @@ class OfflinePipeline:
         return encoder
 
 
+def run_offline_pipeline(
+    model: str = typer.Option("gpt-4o-mini", help="LLM model name."),
+    api_key: str | None = typer.Option(
+        None, help="OpenAI API key or path to a key file."
+    ),
+    n_workers: int = typer.Option(3, help="Number of concurrent LLM workers."),
+    index_only: bool = typer.Option(
+        False, "--index-only", help="Skip extraction, only rebuild the title index."
+    ),
+) -> None:
+    """Extract job specs from disk and build the TF-IDF title index."""
+    pipeline = OfflinePipeline(model=model, api_key=api_key, n_workers=n_workers)
+    if index_only:
+        pipeline.run_indexing()
+    else:
+        asyncio.run(pipeline.run_all())
+
+
 if __name__ == "__main__":
 
-    pipeline = OfflinePipeline()
-    pipeline.run_indexing()
+    # example usage:
+    # python -m matchmaker.offline_pipeline.pipeline
+    # --model qwen3.5:9b
+    # --api-key ~/.openai/api_key
+    # --n-workers 3
+    # --index-only
 
-    # or
-    asyncio.run(pipeline.run_all())
+    typer.run(run_offline_pipeline)

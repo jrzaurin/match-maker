@@ -47,7 +47,7 @@ class Extractor(ABC):
             )
             for item in items
         ]
-        return list(await asyncio.gather(*tasks))
+        return list[BaseModel](await asyncio.gather(*tasks))
 
     async def _call_with_retry(
         self,

@@ -15,12 +15,29 @@ from matchmaker.extractors.openai_extractor import OpenAIExtractor
 _OLLAMA_PREFIXES = ("qwen", "deepseek")
 
 
-def _make_extractor(model: str, n_workers: int, max_attempts: int) -> Extractor:
+def _resolve_api_key(api_key: str | Path | None) -> str | None:
+    """Resolve an API key from a raw string, a file path, or None (use default)."""
+    if api_key is None:
+        return None
+    p = Path(api_key)
+    if p.is_file():
+        return p.read_text(encoding="utf-8").strip()
+    return str(api_key)
+
+
+def _make_extractor(
+    model: str,
+    n_workers: int,
+    max_attempts: int,
+    api_key: str | None = None,
+) -> Extractor:
     if any(model.startswith(p) for p in _OLLAMA_PREFIXES):
         return OllamaExtractor(
             model=model, n_workers=n_workers, max_attempts=max_attempts
         )
-    return OpenAIExtractor(model=model, n_workers=n_workers, max_attempts=max_attempts)
+    return OpenAIExtractor(
+        model=model, n_workers=n_workers, max_attempts=max_attempts, api_key=api_key
+    )
 
 
 class ExtractionPipeline:
@@ -29,8 +46,11 @@ class ExtractionPipeline:
         model: str = "gpt-4o-mini",
         n_workers: int = 5,
         max_attempts: int = 3,
+        api_key: str | Path | None = None,
     ) -> None:
-        self._extractor = _make_extractor(model, n_workers, max_attempts)
+        self._extractor = _make_extractor(
+            model, n_workers, max_attempts, _resolve_api_key(api_key)
+        )
 
     async def extract_job(self, *, filename: str, body: str) -> JobRecord:
         rec = await self._extractor.extract_one(

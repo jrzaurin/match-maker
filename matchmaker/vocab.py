@@ -7,6 +7,14 @@ controlled vocabulary that one can expand as needed.
 from enum import StrEnum
 
 
+class RoleType(StrEnum):
+    ml_engineer = "ml_engineer"
+    data_scientist = "data_scientist"
+    data_engineer = "data_engineer"
+    data_analyst = "data_analyst"
+    ml_manager = "ml_manager"
+
+
 class RemotePolicy(StrEnum):
     fully_remote = "fully_remote"
     hybrid = "hybrid"
@@ -20,14 +28,6 @@ class SeniorityLevel(StrEnum):
     lead = "lead"
     director = "director"
     vp = "vp"
-
-
-class RoleType(StrEnum):
-    ml_engineer = "ml_engineer"
-    data_scientist = "data_scientist"
-    data_engineer = "data_engineer"
-    data_analyst = "data_analyst"
-    ml_manager = "ml_manager"
 
 
 class CompanyStage(StrEnum):

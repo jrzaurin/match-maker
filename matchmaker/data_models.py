@@ -36,7 +36,7 @@ def _validate_domain_tags(values: list[str]) -> list[str]:
             out.append(_SYNONYMS[key])
         else:
             out.append(DomainExpertise.general_ml_ai.value)
-    seen: set[str] = set()
+    seen: set[str] = set[str]()
     unique: list[str] = []
     for x in out:
         if x not in seen:
@@ -90,7 +90,7 @@ class JobRecord(BaseModel):
     def normalize_domains(cls, v: list[str] | None) -> list[str]:
         if not v:
             return []
-        return _validate_domain_tags(list(v))
+        return _validate_domain_tags(list[str](v))
 
 
 class CVRecord(BaseModel):
@@ -120,7 +120,7 @@ class CVRecord(BaseModel):
     def normalize_cv_domains(cls, v: list[str] | None) -> list[str]:
         if not v:
             return []
-        return _validate_domain_tags(list(v))
+        return _validate_domain_tags(list[str](v))
 
 
 class CandidatePreferences(BaseModel):
@@ -128,6 +128,9 @@ class CandidatePreferences(BaseModel):
 
     preferred_role_types: list[RoleType] = Field(default_factory=list)
     preferred_locations: list[str] = Field(default_factory=list)
+    preferred_seniority: list[SeniorityLevel] = Field(default_factory=list)
+    preferred_company_stages: list[CompanyStage] = Field(default_factory=list)
+    preferred_company_sizes: list[CompanySize] = Field(default_factory=list)
     remote_preference: RemotePreference = RemotePreference.no_preference
     min_salary: int | None = None
 
