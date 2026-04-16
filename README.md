@@ -175,7 +175,9 @@ Result saved to `results/<cv_stem>_<timestamp>.json`:
 
 There are two main areas of improvemen or TODOs:
 
-1. Enrich and speed retrieval.
+1. Enrich and speed retrieval. Note that current latency would be the same
+   whether the number of job specs is 10 or 100k. The bottleneck in the current
+   design is the call to the LLM.
 2. Evals for the LLM output and the overall pipeline.
 
 ### HTTP API (local)
